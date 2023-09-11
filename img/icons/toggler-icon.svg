@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 900 900"
+   version="1.1"
+   id="svg1"
+   width="900"
+   height="900"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <path
+     stroke="rgba(33, 37, 41, 0.75)"
+     stroke-linecap="round"
+     stroke-miterlimit="10"
+     stroke-width="2"
+     d="M 4.1799019,7.4158398 H 26.179902 M 4.1799019,15.41584 H 26.179902 m -22.0000001,8 H 26.179902"
+     id="path1"
+     style="fill:#1fb200;fill-opacity:1;stroke:#ffffff;stroke-opacity:1" />
+</svg>

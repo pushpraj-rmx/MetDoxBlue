@@ -1,0 +1,29 @@
+.non-gsm-shutter {
+    background-color: rgb(255, 255, 255);
+    background-image: url(../img/banner/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+
+.product-secondary-image img {
+height: 100px;
+}
+
+.product-features .card {
+    padding: 20px;
+}
+
+.product-features .card-container 
+ {
+    box-sizing: border-box;
+    padding: 0px 10px;
+    /* margin: 10px; */
+}
+
+.product-specification .card 
+ {
+    padding: 10px;
+    /* margin: 10px; */
+}
